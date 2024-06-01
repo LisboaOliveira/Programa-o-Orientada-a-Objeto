@@ -1,0 +1,13 @@
+Determine se cada uma das seguintes alternativas é verdadeira ou falsa. Se falsa, explique por quê.
+• O caso default é requerido na instrução de seleção switch.
+    sim, do contrario o codigo não compila.
+• A instrução break é requerida no último caso de uma instrução de seleção switch.
+    não, no caso de funçoes pode-se utilizar o return.
+• A expressão ((x > y)&&(a < b)) é verdadeira se (x > y) for verdadeiro ou (a < b) for verdadeira.
+    não, a expressão é verdadeira se (x>y) e (a<b) for verdadeira.
+• Uma expressão contendo o operador || é verdadeira se um ou ambos de seus operandos forem verdadeiros.
+    sim. O operador || equivale a "ou".
+• Para testar para uma série de valores em uma instrução switch, pode-se utilizar um hífen ( - ) entre os valores inicial e final da série em um rótulo case.
+    não. switch cada valor deve ser um caso isolado, para intervalos um if-else seria mais apropriado.
+• Listar casos consecutivamente sem instruções entre eles permite aos casos executar o mesmo conjunto de instruções.
+    não ententi a pergunta... 
