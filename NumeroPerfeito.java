@@ -15,6 +15,7 @@ public class NumeroPerfeito{
         int n = 1, controle = 0;
 
         System.out.printf("Os 4 primeiros numeros perfeito são:\n");
+        //lemprar de perguntar porquer n encontra mais de 4...
         while(controle < 4){
             if(acharperfeito(n)){
                 System.out.printf("%d ", n);
